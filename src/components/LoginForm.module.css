@@ -1,0 +1,25 @@
+.label {
+  display: block;
+  display: flex;
+  justify-content: flex-start;
+  font-size: 20px;
+  color: aliceblue;
+}
+
+.input {
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: rgb(34, 99, 99);
+  color: aliceblue;
+}
+
+.button {
+  display: block;
+  font-size: 20px;
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
